@@ -1,8 +1,4 @@
 import os
-#test
-#
-#8
-
 
 def setup():
     requirements = open('requirements.txt', "r")
